@@ -1,0 +1,2 @@
+# RubyTuesday
+curso de ruby
